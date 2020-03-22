@@ -17,5 +17,5 @@ Mappe
 * [Filaindiana](https://www.filaindiana.it) **Milano**
 * [Covid19Italia Consegne e Commissioni](https://www.covid19italia.help/consegne-e-commissioni/)
 
-Siti Web
+Liste compilate da siti web o giornali
 * [Il Trentino dei Bambini](https://www.iltrentinodeibambini.it/consegne-a-domicilio-ecco-chi-le-fa/) **Trentino**

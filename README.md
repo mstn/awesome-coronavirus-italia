@@ -9,8 +9,14 @@ Awesome list with resources to fight the covid emergency (mainly 🇮🇹)
 
 ## Informazioni
 
+Generali
 - [Covid19Italia](https://www.covid19italia.help/) consente di fare segnalazioni
+
+Divulgazione scientifica
 - [stopCovid19](https://stopcovid19.neocities.org/) divulgazione scientifica ai tempi del corona virus
+
+Grafiche e visualizzazioni dati
+- [covid19trentino](https://covid19trentino.fbk.eu/)
 
 ## Consegne a domicilio
 

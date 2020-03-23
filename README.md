@@ -5,6 +5,7 @@ Awesome list with resources to fight the covid emergency (mainly 🇮🇹)
 
 - [Informazioni](#informazioni)
 - [Attività che effettuano consegne a domicilio](#consegne-a-domicilio)
+- [Altre awesome list](#altre-awesome-list)
 
 ## Informazioni
 
@@ -20,3 +21,7 @@ Mappe
 
 Liste compilate da siti web o giornali
 * [Il Trentino dei Bambini](https://www.iltrentinodeibambini.it/consegne-a-domicilio-ecco-chi-le-fa/) **Trentino**
+
+## Altre awesome list
+
+* [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)

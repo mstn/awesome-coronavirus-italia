@@ -1,5 +1,5 @@
-# awesome-italia
-Awesome list with resources to fight the covid emergency (mainly 🇮🇹)
+# Awesome Coronavirus Italia 🇮🇹
+> Progetti e risorse utili per capire e combattere il coronavirus in Italia
 
 ## Indice dei contenuti
 

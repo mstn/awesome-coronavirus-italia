@@ -33,7 +33,7 @@ Liste compilate da siti web o giornali
 * [Il Trentino dei Bambini](https://www.iltrentinodeibambini.it/consegne-a-domicilio-ecco-chi-le-fa/) **Trentino** 
 
 Gruppi Facebook
-* [Tutta Bologna a Domicilio](https://www.facebook.com/groups/747353759128312/)
+* [Tutta Bologna a Domicilio](https://www.facebook.com/groups/747353759128312/) **Bologna**
 
 ## Altre awesome list
 

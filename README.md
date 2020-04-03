@@ -25,8 +25,12 @@ Mappe
 * [Filaindiana](https://www.filaindiana.it) **Milano**
 * [Covid19Italia Consegne e Commissioni](https://www.covid19italia.help/consegne-e-commissioni/)
 
+Liste
+* [ConsegnoInTrentino](https://consegnointrentino.provincia.tn.it), prodotta da Provincia Autonoma di Trento in collaborazione con Confcommercio e Comune di Trento. **Trentino**
+* [TrentinoADomicilio](https://trentino-a-domicilio.glideapp.io/) app creata da [Belka](https://giulio@belkadigital.com/). **Trentino**
+
 Liste compilate da siti web o giornali
-* [Il Trentino dei Bambini](https://www.iltrentinodeibambini.it/consegne-a-domicilio-ecco-chi-le-fa/) **Trentino**
+* [Il Trentino dei Bambini](https://www.iltrentinodeibambini.it/consegne-a-domicilio-ecco-chi-le-fa/) **Trentino** 
 
 ## Altre awesome list
 
